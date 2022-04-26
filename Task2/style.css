@@ -1,0 +1,33 @@
+h1{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: gray;
+    font-family: cursive;
+}
+img{
+  margin-top: 100px;
+  width: 850px;
+  box-shadow: 11px 11px 20px 0px;
+}
+p{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+div{
+    width: 850px;
+    height: 919px;
+    margin-left: 650px;
+    font-size: 25px;
+}
+a{
+    margin-left: 300px;
+    text-decoration: none;
+    color: rgb(8, 204, 74);
+    font-family: 'Comfortaa', cursive;
+}
+body{
+    background-image: linear-gradient(to right bottom, #efffe0, #e0f2d7, #d1e4cd, #c4d6c4, #b7c9ba, #a4b9af, #93a9a4, #849998, #708287, #606b74, #52545f, #443f48);
+}
